@@ -1,0 +1,21 @@
+# PayPlace
+
+PayPlace is a colorful manual-entry money command center for organizing bills, estimating safe-to-spend cash, planning debt payoff, and reducing financial overwhelm.
+
+## Current status
+
+Manual-entry beta.
+
+PayPlace does **not** currently connect to bank accounts, move money, or pay bills. Bank syncing and Plaid integration are planned for later after secure backend testing.
+
+## Expo project files
+
+This repo should contain:
+
+- `App.js`
+- `index.js`
+- `package.json`
+- `app.json`
+- `eas.json`
+- `.gitignore`
+
