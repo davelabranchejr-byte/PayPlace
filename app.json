@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "PayPlace",
+    "slug": "payplace",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "payplace",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.davelabranchejr.payplace"
+    },
+    "android": {
+      "package": "com.davelabranchejr.payplace"
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "extra": {
+      "manualEntryBeta": true,
+      "bankSyncing": "coming later after secure testing"
+    }
+  }
+}
